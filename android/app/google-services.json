@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "54739192037",
+    "project_id": "tasqr-67885",
+    "storage_bucket": "tasqr-67885.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54739192037:android:a1faff650b23ad61a8ec0c",
+        "android_client_info": {
+          "package_name": "com.example.tasqr_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54739192037-k1rpbtpt6lnqu9gki7g0cljg14o7u99r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNqZaTeH4kqDzOhExtWrWk7VaBtpQFMPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54739192037-k1rpbtpt6lnqu9gki7g0cljg14o7u99r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "54739192037-l58cac2ku0sv0nkb22vbipk2d0lkdemp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tasqrProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
